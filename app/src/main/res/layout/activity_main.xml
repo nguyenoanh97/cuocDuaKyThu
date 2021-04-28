@@ -55,7 +55,7 @@
 
         android:layout_height="wrap_content"
 
-        android:layout_marginLeft="70dp"
+        android:layout_marginLeft="60dp"
         android:layout_marginBottom="0dp"
 
         android:thumb="@drawable/pokemon1"
@@ -67,7 +67,7 @@
         android:layout_width="match_parent"
 
         android:layout_height="wrap_content"
-        android:layout_marginLeft="70dp"
+        android:layout_marginLeft="60dp"
         android:layout_marginBottom="30dp"
         android:thumb="@drawable/pokemon2"
 
@@ -78,7 +78,7 @@
         android:id="@+id/seekbarOne"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="70dp"
+        android:layout_marginLeft="60dp"
         android:layout_marginBottom="30dp"
         android:thumb="@drawable/pokemon3"
         app:layout_constraintBottom_toTopOf="@+id/seekbarTwo"
